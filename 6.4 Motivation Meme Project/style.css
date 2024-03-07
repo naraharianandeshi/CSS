@@ -1,0 +1,23 @@
+body{
+    background-color:#B31312;
+    border: 40px solid #2E3840;
+}
+div{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 2rem;
+    color: #FFCD4B;
+}
+#quote1{
+    font-family: 'Caveat', cursive;
+    color: #FFCD4B;
+}
+img{
+    border: 10px solid white;
+    width: 
+}
